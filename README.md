@@ -1,1 +1,1 @@
-# Do-Left-Handed-HItters-Like-the-Ball-Down-In-
+This project takes all pitches from the 2021 and 2022 MLB seasons and attempts to see if the thought that Left handed hitters like the ball down and in more than right handed hitters has any truth to it.  
